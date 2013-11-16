@@ -1,0 +1,21 @@
+Phones
+-----
+Geeksphone Peak, Firefox OS 1.1
+HTC Evo, Android 2.1
+HTC Desire, Android 2.2.2
+HTC One, Android 4.3.X
+iPhone 4S, iOS 7.0.3
+iPhone 3, iOS 6.X
+Palm Pre Plus, webOS 1.x
+
+Tablets
+------
+iPad Mini, iOS 7.0.X
+Samsung Galaxy Tab, Android 2.2.1
+Kindle Fire, Android 4.2.2 (CyanogenMod 10.X)
+
+Misc
+----
+Nintendo 3DSXL
+Nintendo Wii
+Sony Blueray player (with Opera Presto-powered TV browser)
