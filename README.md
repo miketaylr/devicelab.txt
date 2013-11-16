@@ -2,7 +2,7 @@
 
 This is an experiment in distributed device testing.
 
-If you need me to run a quick test on a browser on a device you don't have access to, open an issue on this repo. Let's define "quick" as something that would take less than 10 minutes.
+If you need me to run a quick test on a browser on a device you don't have access to, but I have it in my devicelab.txt, open an issue on this repo. Let's define "quick" as something that would take less than 10 minutes.
 
 You could maybe create your own devicelab.txt file too.
 
