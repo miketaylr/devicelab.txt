@@ -6,6 +6,8 @@ If you need me to run a quick test on a browser on a device you don't have acces
 
 You could maybe create your own devicelab.txt file too.
 
+Discoverability [on the cheap](https://github.com/search?q=devicelab.txt&search_target=global).
+
 ### Inspiration
 
 ```
