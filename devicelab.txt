@@ -6,6 +6,7 @@ HTC Desire, Android 2.2.2
 HTC One, Android 4.3.X
 iPhone 4S, iOS 7.0.3
 iPhone 3, iOS 6.X
+Nexus S, Android 4.1.1 (CyanogenMod 10.X)
 Palm Pre Plus, webOS 1.x
 
 Tablets
