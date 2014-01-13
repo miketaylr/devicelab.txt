@@ -14,6 +14,7 @@ Tablets
 iPad Mini, iOS 7.0.X
 Samsung Galaxy Tab, Android 2.2.1
 Kindle Fire, Android 4.2.2 (CyanogenMod 10.X)
+Nexus 7, Android 4.4.2
 
 Misc
 ----
